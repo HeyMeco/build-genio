@@ -1,8 +1,8 @@
 # Radxa Nio 12L
 declare -g BOARD_NAME="Nio 12L"
 declare -g BOARD_MAINTAINER="HeyMeco"
-declare -g BOARDFAMILY="uefi-arm64"
-declare -g KERNEL_TARGET="edge"
+declare -g BOARDFAMILY="mediatek-genio"
+declare -g KERNEL_TARGET="bsp-radxa"
 
 declare -g BOOT_LOGO=desktop
 
